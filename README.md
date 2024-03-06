@@ -1,4 +1,9 @@
-# Mpv-config-
+# Mpv config 
  
-
-Place the two config files in the directory ~/.config/mpv/
+My personal Mpv configuration 
+ ## Features
+ - Up and Down arrow keys as volume controls
+ - Auto play next videos
+ - Youtube playback with yt-dlp
+ - sponsorblock
+   
